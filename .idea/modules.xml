@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DoitJin.iml" filepath="$PROJECT_DIR$/DoitJin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplecallintent/samplecallintent.iml" filepath="$PROJECT_DIR$/samplecallintent/samplecallintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleintent/sampleintent.iml" filepath="$PROJECT_DIR$/sampleintent/sampleintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplelayoutinflater/samplelayoutinflater.iml" filepath="$PROJECT_DIR$/samplelayoutinflater/samplelayoutinflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplelifecycle/samplelifecycle.iml" filepath="$PROJECT_DIR$/samplelifecycle/samplelifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleparcelable/sampleparcelable.iml" filepath="$PROJECT_DIR$/sampleparcelable/sampleparcelable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplepdfview/samplepdfview.iml" filepath="$PROJECT_DIR$/samplepdfview/samplepdfview.iml" />
+    </modules>
+  </component>
+</project>
